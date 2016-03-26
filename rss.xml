@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kontrafei Portfolio]]></title>
-        <description><![CDATA[Kontrafei Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Kontrafei]]></title>
+        <description><![CDATA[Kontrafei]]></description>
+        <link>https://thegrid.ai/kontrafei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:57:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 21:59:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kontrafei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e31b76e-b455-4e9a-bb92-a86ccbeb8566.jpg">]]></description>
+            <link>https://thegrid.ai/kontrafei/393c3b25-45ef-4c4b-9ab0-31d55e5e364d/index.html</link>
+            <guid isPermaLink="false">393c3b25-45ef-4c4b-9ab0-31d55e5e364d</guid>
+            <pubDate>Sat, 26 Mar 2016 21:58:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd0a965-baa5-4fae-b30c-b11a52efeb7a.jpg">]]></description>
-            <link>undefined973a142b-b21d-4e37-9976-e08a8a66f5b7/index.html</link>
+            <link>https://thegrid.ai/kontrafei/973a142b-b21d-4e37-9976-e08a8a66f5b7/index.html</link>
             <guid isPermaLink="false">973a142b-b21d-4e37-9976-e08a8a66f5b7</guid>
             <pubDate>Sat, 26 Mar 2016 21:57:43 GMT</pubDate>
         </item>
