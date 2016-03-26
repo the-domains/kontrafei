@@ -1,7 +1,7 @@
 name: Kontrafei
 favicon: null
-layout_spectrum: 0.29467
-typography_spectrum: 0.44748
+layout_spectrum: 1
+typography_spectrum: 0.22671
 title: Kontrafei
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2f2f2'
-    - '#484848'
-    - '#292829'
-    - '#808080'
-    - '#b8b8b8'
-  brandStrength: 0.5
+    - '#020202'
+    - '#3c241a'
+    - '#5a3d2a'
+    - '#a47455'
+    - '#8d6045'
+  brandStrength: 0
   lightness: 0
-  saturation: 1
+  saturation: 0.375
   rhythmicContrast: 1
 purpose: []
