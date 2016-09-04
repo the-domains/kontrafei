@@ -1,20 +1,4 @@
-name: Kontrafei
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.22671
-title: Kontrafei
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#847f76'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Kontrafei
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Kontrafei
 purpose: []
