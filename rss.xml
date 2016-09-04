@@ -4,8 +4,15 @@
         <description><![CDATA[Kontrafei]]></description>
         <link>https://thegrid.ai/kontrafei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 19:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 19:42:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kontrafei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/121a4fbcaaa6788eae25a3f7cfe1ba6fb5479e03.jpg">]]></description>
+            <link>https://thegrid.ai/kontrafei/973a142b-b21d-4e37-9976-e08a8a66f5b7/index.html</link>
+            <guid isPermaLink="false">973a142b-b21d-4e37-9976-e08a8a66f5b7</guid>
+            <pubDate>Thu, 01 Sep 2016 19:42:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5c413071ead408654895778fcc12868d/croprotate.jpg?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fca4d00e6-d97f-42d2-a842-f9079c597649.jpg&x=0&y=0">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/kontrafei/393c3b25-45ef-4c4b-9ab0-31d55e5e364d/index.html</link>
             <guid isPermaLink="false">393c3b25-45ef-4c4b-9ab0-31d55e5e364d</guid>
             <pubDate>Thu, 01 Sep 2016 19:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/121a4fbcaaa6788eae25a3f7cfe1ba6fb5479e03.jpg">]]></description>
-            <link>https://thegrid.ai/kontrafei/973a142b-b21d-4e37-9976-e08a8a66f5b7/index.html</link>
-            <guid isPermaLink="false">973a142b-b21d-4e37-9976-e08a8a66f5b7</guid>
-            <pubDate>Thu, 01 Sep 2016 19:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
